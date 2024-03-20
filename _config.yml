@@ -24,17 +24,17 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Xiaoyang Wang"
   pronouns         : "He/His/Him"  
-  bio              : "Doctoral Student in Information Science at the Drexel University"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student at the Drexel University"
+  location         : "Philadelphia, PA"
+  employer         : # "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiw137@pitt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8471-4670"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
