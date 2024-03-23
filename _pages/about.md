@@ -16,7 +16,9 @@ Prior to my Ph.D. life at Drexel, I received my master degree at [the University
 
 Recent News
 ======
+
 2024
 ------
+
 - Mar 2024: A paper accepted at the 12th IEEE International Conference on Health Informatics (IEEE ICHI'24).
 
