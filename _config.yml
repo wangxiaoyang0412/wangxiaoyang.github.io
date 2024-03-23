@@ -24,9 +24,10 @@ author:
   avatar           : "bio-photo.jpg"
   name             : "Xiaoyang Wang"
   pronouns         : "He/His/Him"  
-  bio              : "PhD Student\n
-                     Healthcare Informatics Research Lab \n
-                     Drexel University"
+  bio              : |
+                     PhD Student
+                     Healthcare Informatics Research Lab
+                     Drexel University
   location         : "Philadelphia, PA"
   employer         : # "Red Brick University"
   uri              : # URL
