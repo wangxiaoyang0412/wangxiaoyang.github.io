@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download my [CV](http://academicpages.github.io/files/XiaoyangWang.pdf).
+Download my [CV](http://wangxiaoyang0412.github.io/files/XiaoyangWang.pdf).
 {% include base_path %}
 
 Education
