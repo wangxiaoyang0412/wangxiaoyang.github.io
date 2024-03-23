@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiaoyang Wang"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,7 @@ My research is driven by the pursuit of developing fair and interpretable machin
 
 Prior to my Ph.D. life at Drexel, I received my master degree at [the University of Pittsburgh](https://www.pitt.edu/), and I was advised by Prof. [Peter Brusilovsky](https://www.sci.pitt.edu/people/peter-brusilovsky). I received my bachelor’s degree at [Shanghai Normal University](https://shnu.edu.cn/).
 
+<br>
 
 Recent News
 ======
@@ -20,5 +21,5 @@ Recent News
 2024
 ------
 
-- Mar 2024: A paper accepted at the 12th IEEE International Conference on Health Informatics (IEEE ICHI'24).
+- Mar 2024: A paper accepted at [the 12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io) (IEEE ICHI'24).
 
