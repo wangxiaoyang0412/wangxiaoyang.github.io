@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Xiaoyang Wang"
-title_separator          : ""
+title_separator          : "-"
 name                     : &name "Xiaoyang Wang"
 description              : &description "personal description"
-url                      : https://wangxiaoyang0412.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://wangxiaoyang.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangxiaoyang0412/wangxiaoyang0412.github.io"
 
