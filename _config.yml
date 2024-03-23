@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Xiaoyang Wang"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Xiaoyang Wang"
 description              : &description "personal description"
 url                      : https://wangxiaoyang0412.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -25,9 +25,9 @@ author:
   name             : "Xiaoyang Wang"
   pronouns         : "He/His/Him"  
   bio              : |
-                     PhD Student
-                     Healthcare Informatics Research Lab
-                     Drexel University
+                    "PhD Student
+                     Healthcare Informatics Research Lab 
+                     Drexel University"
   location         : "Philadelphia, PA"
   employer         : # "Red Brick University"
   uri              : # URL

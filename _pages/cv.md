@@ -14,7 +14,7 @@ Education
 ======
 
 * Ph.D in Information Science, Drexel University, 2027 (expected)
-* M.S. in Information Science, GitHub University, 2020
+* M.S. in Information Science, The University of Pittsburgh, 2020
 * B.Eng. in Telecommunication Engineering, Shanghai Normal University, 2018
 
 Work experience
