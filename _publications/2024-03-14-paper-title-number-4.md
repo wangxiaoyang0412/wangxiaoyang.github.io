@@ -9,4 +9,4 @@ venue: 'Proceedings of the 12th IEEE International Conference on Health Informat
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-ExplainableFair, a novel framework proposed for sequentially executing fair model training and providing explanations for enhanced fairness.
+<!-- ExplainableFair, a novel framework proposed for sequentially executing fair model training and providing explanations for enhanced fairness. -->

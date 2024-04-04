@@ -22,5 +22,5 @@ Recent News
 2024
 ------
 
-- Mar 2024: A paper accepted at [the 12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io) (IEEE ICHI'24).
+- Mar 2024: A paper accepted by [the 12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io) (IEEE ICHI'24).
 
