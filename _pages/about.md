@@ -22,5 +22,7 @@ Recent News
 2024
 ------
 
+- Apr 2024: A paper accepted by [the 22nd International Conference on Artificial Intelligence in Medicine](https://aime24.aimedicine.info/) (AIME'24).
+
 - Mar 2024: A paper accepted by [the 12th IEEE International Conference on Health Informatics](https://ieeeichi2024.github.io) (IEEE ICHI'24).
 

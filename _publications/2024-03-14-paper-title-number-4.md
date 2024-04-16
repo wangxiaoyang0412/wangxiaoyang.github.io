@@ -1,7 +1,7 @@
 ---
 title: "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion"
 collection: publications
-# link: 'https://wangxiaoyang.me'
+link: 'https://arxiv.org/abs/2404.03833'
 # permalink: /files/IEEE_ICHI_2024_SUD.pdf
 # excerpt: 'This paper is about a novel framework for sequentially executing fair model training and providing explanations for enhanced fairness.'
 date: 2024-03-14
