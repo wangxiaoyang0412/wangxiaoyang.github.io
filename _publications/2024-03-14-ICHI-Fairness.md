@@ -2,7 +2,7 @@
 title: "An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion"
 collection: publications
 link: 'https://arxiv.org/abs/2404.03833'
-# permalink: /files/IEEE_ICHI_2024_SUD.pdf
+permalink: 'https://arxiv.org/pdf/2404.03833'
 # excerpt: 'This paper is about a novel framework for sequentially executing fair model training and providing explanations for enhanced fairness.'
 date: 2024-03-14
 authors: 'Mary M. Lucas, <strong>Xiaoyang Wang</strong>, Chia-Hsuan Chang, Christopher C. Yang'
