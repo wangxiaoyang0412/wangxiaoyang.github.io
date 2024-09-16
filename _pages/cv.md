@@ -14,9 +14,9 @@ Education
 ======
 ------
 
-* Ph.D in Information Science, **Drexel University**, 2027 (expected)
-* M.S. in Information Science, **The University of Pittsburgh**, 2020
-* B.Eng. in Telecommunication Engineering, **Shanghai Normal University**, 2018
+* Ph.D in Information Science, **Drexel University**, 2022 - 2027 (expected)
+* M.S. in Information Science, **The University of Pittsburgh**, 2018 - 2020
+* B.Eng. in Telecommunication Engineering, **Shanghai Normal University**, 2014 - 2018
 
 Work experience
 ======
